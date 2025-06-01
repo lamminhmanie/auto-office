@@ -1,3 +1,4 @@
 print("Xin chao cong viet tu dong!")
 print("Toi dang hoc git nang cao")
 print("Toi dang add dong thu ba")
+print("toi dang add dong thu tu")
